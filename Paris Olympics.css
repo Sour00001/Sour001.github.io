@@ -1,0 +1,41 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+  }
+  h1 {
+    background-image: linear-gradient(to right, red , yellow);
+    margin: 0%;
+    margin-left: 0%;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+    padding: 30px 16px;
+    margin-bottom: 40px;
+    border:black 5px solid;
+    
+  }
+  .Border {
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    width: 70%;
+    margin-left: 14.5%;
+    background-image: linear-gradient(to right, red , yellow);
+
+  }
+  p {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 30px 16px;
+    text-align: center;
+
+  }
+marquee {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    border:black 5px solid;
+    background-image: linear-gradient(to right, red , yellow);
+    margin-bottom: 40px;
+    font-weight: bold;
+ }
